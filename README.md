@@ -1,4 +1,4 @@
-# Begginer static page
+# Begginner static page
 
 #Demo
 
